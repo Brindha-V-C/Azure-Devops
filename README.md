@@ -69,3 +69,9 @@ kubectl get pods -n <namespace>
 # logs
 kubectl logs -l app=vote -n <namespace>
 ```
+
+## Results
+
+![Pipelines](results/s1.png)
+![Agent](results/s2.png)
+![Docker Images](results/s3.png)
