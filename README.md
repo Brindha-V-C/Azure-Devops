@@ -70,7 +70,9 @@ kubectl get pods -n <namespace>
 kubectl logs -l app=vote -n <namespace>
 ```
 
-## Results
+## Output
+
+The below images show the output of the CI/CD pipeline
 
 ![Pipelines](results/s1.png)
 ![Agent](results/s2.png)
